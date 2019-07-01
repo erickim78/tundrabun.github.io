@@ -1,0 +1,26 @@
+nav{
+    float: right;
+    margin-top: 25px;
+}
+
+nav ul {
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+
+nav li{
+    display: inline;
+    padding: 0 20px 0 20px
+}
+
+nav a{
+    color: #FFFFFF;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+nav a:hover {
+    color: #9db5eb;
+}
