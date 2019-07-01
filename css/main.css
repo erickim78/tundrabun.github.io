@@ -24,16 +24,12 @@ header{
     padding: 0;
 }
 
-header #firstname{
+header .page{
     float: left;
 }
 
-header #firstname h1{
+header .page h1{
     white-space: nowrap;
-}
-
-header #description{
-    float: right;
 }
 
 #skills{

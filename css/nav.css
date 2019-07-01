@@ -1,6 +1,6 @@
 nav{
-    float: center;
-    margin-top: 23px;
+    float: right;
+    margin-top: 25px;
 }
 
 nav ul {
@@ -22,5 +22,5 @@ nav a{
 }
 
 nav a:hover {
-    color: #CCCCCC;
+    color: #9db5eb;
 }
